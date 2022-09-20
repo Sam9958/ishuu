@@ -1,0 +1,345 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+*{
+    padding:0px;
+    margin:0px;
+
+}
+
+.container{
+    /* border:solid 1px black; */
+    display:flex;
+    /* padding: 15px; */
+    background-color: #25b79f;
+    color: white;
+    width: 100%;
+    /* justify-items: legacy; */
+    justify-content: space-between;
+    /* height:100vh;
+    width:100vw; */
+    position: fixed;
+    
+}
+
+.name{
+    padding: 1%;
+    width:75%;
+}
+.info{
+    /* border:solid 1px blue; */
+    display:flex;
+    padding-top: 14px;
+    width:25%;
+    justify-content: space-around;
+}
+
+.info a{
+    color:white;
+    text-decoration: none;
+}
+.hi{
+    /* padding: 11% 42%; */
+    background-color: #25b79f;
+    color: white;
+    height:89vh;
+    height: 70vh;
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.hi h1{
+    color: #07374a;
+}
+.hi p{
+    margin: 5px;
+    padding-left: 16px;
+}
+h2{
+    text-align: center;
+    margin: 2% 0%;
+    font-size: 42px;
+    /* font-family: 'Roboto', sans-serif; */
+
+}
+.im{
+    width: 100%;
+    display: flex;
+    z-index:1;
+    justify-content: center;
+}
+.im img{
+    width: 10%;
+
+}
+.para{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 600;
+}
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.cont {
+  width: 100%; /* Full width */
+  background-color: #ddd; /* Grey background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 6px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.html {width: 90%; background-color:  #25b79f;border-radius: 34px;height: 25px;} /* Green */
+.css {width: 87%; background-color:   #25b79f;border-radius: 34px;height: 25px;} /* Blue */
+.cpp {width: 85%; background-color:   #25b79f;border-radius: 34px;height: 25px;} /* Red */
+.graphics {width: 90%; background-color:   #25b79f;border-radius: 34px;height: 25px;} /* Dark Grey */
+.ps {width: 80%; background-color:   #25b79f;border-radius: 34px;height: 25px;} /* Dark Grey */
+.eh {width: 70%; background-color:   #25b79f;border-radius: 34px;height: 25px;} /* Dark Grey */
+.python {width: 75%; background-color:   #25b79f;border-radius: 34px;height: 25px;} /* Dark Grey */
+.bs {width: 85%; background-color:   #25b79f;border-radius: 34px;height: 25px;} /* Dark Grey */
+
+.whole{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.cont{
+    width: 50%;
+    border-radius: 34px;
+    height: 25px;
+    margin: 10px;
+    font-size: 12px;
+}
+.work{
+    background-color: #25b79f;
+    margin: 40px 0px 0px 0px;
+}
+.thdc{
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 40px 0px;
+}
+.milaap{
+    display: flex;
+}
+.i{
+    width: 25%;
+}
+.i img{
+    width: 73%;
+    padding: 0% 10%;
+}
+.w{
+    width: 75%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+.excelsior{
+    display: flex;
+    flex-direction: row-reverse;
+    
+
+}
+.contact{
+    background-color: #064036;
+    color: white;
+}
+.ct h4{
+    text-align: center;
+    font-size: 35px;
+    padding: 90px 0px 0px 0px;
+    color: #25b79f;
+}
+.ct p{
+    text-align: center;
+    margin:30px 5px;
+    
+}
+.ct a{
+    text-decoration: none;
+    color:white;
+}
+.profile a{
+    color:white;
+    text-decoration: none;
+    color: #25b79f;
+}
+.profile{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2%;
+}
+.profile a{
+    font-size: large;
+}
+.fa {
+    padding: 20px;
+    font-size: xx-large;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  /* .fa-codechef{
+    font-size:large;
+  }
+ .fa-hackerrank{
+    font-size:large;
+ } */
+ .whole a{
+    /* border: solid 2px black; */
+    padding: 1%;
+    margin-top: 2%;
+    background-color: #25b79f;
+    color: white;
+    text-decoration: none;
+    border-radius: 21px;
+}
+.whole a:hover{
+    background-color: #064036;
+}
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+  
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  
+  .left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+  }
+  
+  .up {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+  }
+  
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+  .check h1{
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    padding-top: 8%;
+    font-size: -webkit-xxx-large;
+  }
+  .work h1{
+    text-align: center;
+    /* margin-top: 1%; */
+    padding-top: 2%;
+    color: #064036;
+
+  }
+ .topnav{
+    display: none;
+ }
+ .hv:hover{
+    color:#25b79f;
+ }
+ /* <link rel="stylesheet" href="../src/css/Phonehomepage.css" media="(max-width:1000px)"></link> */
+ @media only screen and (max-width: 1000px){
+    .container{
+        position: absolute;
+        flex-direction: column;
+      }
+      .name{
+        margin-top: 1%;
+        margin-left: 1%;
+      }
+      .info{
+        flex-direction: column;
+        
+        margin-left: 1%;
+      }
+      .io{
+        margin: 2%;
+      }
+      .hi{
+        padding-top:25%;
+      }
+      .im img{
+        width: 35%;
+      }
+      .cont{
+        width:80%;
+      }
+      .para{
+        padding:5%;
+      }
+      .su{
+        flex-direction: column;
+        padding: 5% 0%;
+      }
+      .w{
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+        
+      }
+      .va{
+        margin: 2%;
+      }
+      .excelsior{
+        /* padding-bottom: 6%; */
+        padding-bottom: 20%;
+      }
+      .va img{
+        margin-left: 141%;
+        width: 100%;
+      }
+      .thdc{
+        padding-top: 40px;
+        padding-bottom: 0px;
+      }
+      .profile a{
+        width: auto;
+      }
+      .profile{
+        width: auto;
+      }
+ }
