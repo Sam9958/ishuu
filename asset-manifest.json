@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ishuu/static/css/main.37ddc601.css",
+    "main.js": "/ishuu/static/js/main.ca8eb1e4.js",
+    "static/js/787.bbb9142f.chunk.js": "/ishuu/static/js/787.bbb9142f.chunk.js",
+    "static/media/MILAAP new white.png": "/ishuu/static/media/MILAAP new white.dc60c273a6acb2845ebc.png",
+    "static/media/logo.png": "/ishuu/static/media/logo.05bf91471db17cbd229a.png",
+    "static/media/avatar.png": "/ishuu/static/media/avatar.43616d80c6b82493050f.png",
+    "index.html": "/ishuu/index.html",
+    "main.37ddc601.css.map": "/ishuu/static/css/main.37ddc601.css.map",
+    "main.ca8eb1e4.js.map": "/ishuu/static/js/main.ca8eb1e4.js.map",
+    "787.bbb9142f.chunk.js.map": "/ishuu/static/js/787.bbb9142f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37ddc601.css",
+    "static/js/main.ca8eb1e4.js"
+  ]
+}
