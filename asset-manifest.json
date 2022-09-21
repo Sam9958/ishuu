@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ishuu/static/css/main.ac2b69b3.css",
-    "main.js": "/ishuu/static/js/main.f6a015d8.js",
+    "main.js": "/ishuu/static/js/main.b09d0566.js",
     "static/js/787.bbb9142f.chunk.js": "/ishuu/static/js/787.bbb9142f.chunk.js",
     "static/media/ISHA SAINI_page-0001.jpg": "/ishuu/static/media/ISHA SAINI_page-0001.e679a3a5bf6f120443a8.jpg",
     "static/media/isha_0401-SNCK1A21_page-0001.jpg": "/ishuu/static/media/isha_0401-SNCK1A21_page-0001.feb3f7f76f98e55f25ba.jpg",
@@ -11,11 +11,11 @@
     "static/media/avatar.png": "/ishuu/static/media/avatar.43616d80c6b82493050f.png",
     "index.html": "/ishuu/index.html",
     "main.ac2b69b3.css.map": "/ishuu/static/css/main.ac2b69b3.css.map",
-    "main.f6a015d8.js.map": "/ishuu/static/js/main.f6a015d8.js.map",
+    "main.b09d0566.js.map": "/ishuu/static/js/main.b09d0566.js.map",
     "787.bbb9142f.chunk.js.map": "/ishuu/static/js/787.bbb9142f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac2b69b3.css",
-    "static/js/main.f6a015d8.js"
+    "static/js/main.b09d0566.js"
   ]
 }
