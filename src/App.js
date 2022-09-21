@@ -6,6 +6,7 @@ import Footer from './components/Footer';
 import "aos/dist/aos.css";
 import Aos from 'aos';
 import { useEffect } from 'react';
+import Certificate from './components/Certificate';
 
 
 function App() {
@@ -17,7 +18,7 @@ function App() {
     <Navbar/>
     <About/>
     <Work/>
-   
+    <Certificate/>
     <Footer/>
     </>
   );

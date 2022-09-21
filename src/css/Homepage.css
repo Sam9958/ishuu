@@ -24,6 +24,7 @@
     
 }
 
+
 .name{
     padding: 1%;
     width:75%;
@@ -338,8 +339,10 @@ h2{
       }
       .profile a{
         width: auto;
+        font-size: inherit;
       }
       .profile{
         width: auto;
+        flex-direction: column;
       }
  }
